@@ -1,0 +1,30 @@
+2026-03-26T12:27:22.7003360+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.9.1+cb5afc3bb9bb01ebd75b57f89e8358b914ee2a49
+2026-03-26T12:27:22.7078793+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-03-26T12:27:22.7086208+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-03-26T12:27:22.7086244+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 12:27:22.683
+2026-03-26T12:27:22.7088703+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 35496
+2026-03-26T12:27:22.7088877+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.14
+2026-03-26T12:27:22.7088980+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.14\System.Private.CoreLib.dll
+2026-03-26T12:27:22.7089053+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-03-26T12:27:22.7089496+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\ClassLibrary1.dll
+2026-03-26T12:27:22.7090189+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\Log --results-directory C:\TestingAutomotasion\ClassLibrary1\TestResults --client-port 57323'
+2026-03-26T12:27:22.7098944+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-03-26T12:27:22.7216220+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-03-26T12:27:22.7293666+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-03-26T12:27:22.8532352+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.2.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-03-26T12:27:22.8582956+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.2.2+728c1dce01 (64-bit .NET 9.0.14)
+2026-03-26T12:27:22.8816861+00:00 xUnit.net INFORMATION   Discovering: ClassLibrary1
+2026-03-26T12:27:22.9028686+00:00 xUnit.net INFORMATION   Discovered:  ClassLibrary1
+2026-03-26T12:27:22.9152297+00:00 xUnit.net INFORMATION   Starting:    ClassLibrary1
+2026-03-26T12:27:44.6057450+00:00 xUnit.net ERROR     EHU.AutomationTests.LanguageTests.Verify_Language_Change_Functionality [FAIL]
+2026-03-26T12:27:44.6059854+00:00 xUnit.net INFORMATION       OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+2026-03-26T12:27:44.6062934+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-03-26T12:27:44.6065355+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+2026-03-26T12:27:44.6065478+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+2026-03-26T12:27:44.6065512+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+2026-03-26T12:27:44.6065658+00:00 xUnit.net INFORMATION         C:\TestingAutomotasion\ClassLibrary1\LanguageTests.cs(33,0): at EHU.AutomationTests.LanguageTests.Verify_Language_Change_Functionality()
+2026-03-26T12:27:44.6065693+00:00 xUnit.net INFORMATION            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+2026-03-26T12:27:44.6065726+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2026-03-26T12:27:44.6085631+00:00 xUnit.net INFORMATION   Finished:    ClassLibrary1 (ID = 'cbf401ae423781f4e8334273fc9bdd86f0a604ba4dd86ad554bcf86dd389ca91')
+2026-03-26T12:27:44.6114966+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-03-26T12:27:44.6147140+00:00 xUnit.net INFORMATION    ClassLibrary1  Total: 3, Errors: 0, Failed: 1, Skipped: 0, Not Run: 0, Time: 21.696s

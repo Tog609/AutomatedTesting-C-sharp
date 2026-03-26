@@ -1,0 +1,33 @@
+2026-03-26T11:57:27.8428867+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.9.1+cb5afc3bb9bb01ebd75b57f89e8358b914ee2a49
+2026-03-26T11:57:27.8504799+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-03-26T11:57:27.8512009+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-03-26T11:57:27.8512046+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 11:57:27.827
+2026-03-26T11:57:27.8514481+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 42092
+2026-03-26T11:57:27.8514651+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.14
+2026-03-26T11:57:27.8514745+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.14\System.Private.CoreLib.dll
+2026-03-26T11:57:27.8514815+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-03-26T11:57:27.8515301+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\ClassLibrary1.dll
+2026-03-26T11:57:27.8515894+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\Log --results-directory C:\TestingAutomotasion\ClassLibrary1\TestResults --client-port 65199'
+2026-03-26T11:57:27.8525360+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-03-26T11:57:27.8627646+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-03-26T11:57:27.8700077+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-03-26T11:57:27.9892845+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.2.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-03-26T11:57:27.9944086+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.2.2+728c1dce01 (64-bit .NET 9.0.14)
+2026-03-26T11:57:28.0173035+00:00 xUnit.net INFORMATION   Discovering: ClassLibrary1
+2026-03-26T11:57:28.0384541+00:00 xUnit.net INFORMATION   Discovered:  ClassLibrary1
+2026-03-26T11:57:28.0511030+00:00 xUnit.net INFORMATION   Starting:    ClassLibrary1
+2026-03-26T11:57:45.7238150+00:00 xUnit.net ERROR     EHU.AutomationTests.NavigationTests.Verify_About_Page_Navigation [FAIL]
+2026-03-26T11:57:45.7240484+00:00 xUnit.net INFORMATION       OpenQA.Selenium.ElementClickInterceptedException : element click intercepted: Element <a href="https://en.ehuniversity.lt/about/" plerdy-tracking-id="69604942401">...</a> is not clickable at point (367, 846). Other element would receive the click: <div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-banner cc-type-info cc-theme-classic cc-bottom cc-color-override--329214214 " style="">...</div>
+  (Session info: chrome=146.0.7680.165)
+2026-03-26T11:57:45.7242385+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-03-26T11:57:45.7244525+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+2026-03-26T11:57:45.7244647+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T11:57:45.7244687+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T11:57:45.7244711+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+2026-03-26T11:57:45.7244723+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebElement.Click()
+2026-03-26T11:57:45.7244853+00:00 xUnit.net INFORMATION         C:\TestingAutomotasion\ClassLibrary1\EhuNavigationTest.cs(16,0): at EHU.AutomationTests.NavigationTests.Verify_About_Page_Navigation()
+2026-03-26T11:57:45.7244886+00:00 xUnit.net INFORMATION            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+2026-03-26T11:57:45.7244916+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2026-03-26T11:57:45.7330807+00:00 xUnit.net INFORMATION   Finished:    ClassLibrary1 (ID = 'cbf401ae423781f4e8334273fc9bdd86f0a604ba4dd86ad554bcf86dd389ca91')
+2026-03-26T11:57:45.7359776+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-03-26T11:57:45.7392103+00:00 xUnit.net INFORMATION    ClassLibrary1  Total: 1, Errors: 0, Failed: 1, Skipped: 0, Not Run: 0, Time: 17.684s

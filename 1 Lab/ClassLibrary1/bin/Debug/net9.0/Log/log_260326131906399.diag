@@ -1,0 +1,21 @@
+2026-03-26T13:19:06.4052390+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.9.1+cb5afc3bb9bb01ebd75b57f89e8358b914ee2a49
+2026-03-26T13:19:06.4134130+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-03-26T13:19:06.4142156+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-03-26T13:19:06.4142195+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 13:19:06.386
+2026-03-26T13:19:06.4144900+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 46772
+2026-03-26T13:19:06.4145121+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.14
+2026-03-26T13:19:06.4145245+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.14\System.Private.CoreLib.dll
+2026-03-26T13:19:06.4145372+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-03-26T13:19:06.4147074+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\ClassLibrary1.dll
+2026-03-26T13:19:06.4148476+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\Log --results-directory C:\TestingAutomotasion\ClassLibrary1\TestResults --client-port 63423'
+2026-03-26T13:19:06.4157909+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-03-26T13:19:06.4265915+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-03-26T13:19:06.4348200+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-03-26T13:19:06.5612774+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.2.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-03-26T13:19:06.5671785+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.2.2+728c1dce01 (64-bit .NET 9.0.14)
+2026-03-26T13:19:06.5913731+00:00 xUnit.net INFORMATION   Discovering: ClassLibrary1
+2026-03-26T13:19:06.6156781+00:00 xUnit.net INFORMATION   Discovered:  ClassLibrary1
+2026-03-26T13:19:06.6296762+00:00 xUnit.net INFORMATION   Starting:    ClassLibrary1
+2026-03-26T13:19:08.1042073+00:00 xUnit.net INFORMATION   Finished:    ClassLibrary1 (ID = 'cbf401ae423781f4e8334273fc9bdd86f0a604ba4dd86ad554bcf86dd389ca91')
+2026-03-26T13:19:08.1076196+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-03-26T13:19:08.1112423+00:00 xUnit.net INFORMATION    ClassLibrary1  Total: 1, Errors: 0, Failed: 0, Skipped: 0, Not Run: 0, Time: 1.476s

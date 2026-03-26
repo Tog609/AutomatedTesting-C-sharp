@@ -1,0 +1,31 @@
+2026-03-26T12:13:10.7668456+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.9.1+cb5afc3bb9bb01ebd75b57f89e8358b914ee2a49
+2026-03-26T12:13:10.7743832+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-03-26T12:13:10.7753347+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-03-26T12:13:10.7753391+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 12:13:10.751
+2026-03-26T12:13:10.7756232+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 43016
+2026-03-26T12:13:10.7756433+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.14
+2026-03-26T12:13:10.7756534+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.14\System.Private.CoreLib.dll
+2026-03-26T12:13:10.7756607+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-03-26T12:13:10.7757000+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\ClassLibrary1.dll
+2026-03-26T12:13:10.7757630+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\Log --results-directory C:\TestingAutomotasion\ClassLibrary1\TestResults --client-port 65285'
+2026-03-26T12:13:10.7767089+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-03-26T12:13:10.7873244+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-03-26T12:13:10.7946495+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-03-26T12:13:10.9154024+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.2.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-03-26T12:13:10.9206890+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.2.2+728c1dce01 (64-bit .NET 9.0.14)
+2026-03-26T12:13:10.9449145+00:00 xUnit.net INFORMATION   Discovering: ClassLibrary1
+2026-03-26T12:13:10.9671657+00:00 xUnit.net INFORMATION   Discovered:  ClassLibrary1
+2026-03-26T12:13:10.9797057+00:00 xUnit.net INFORMATION   Starting:    ClassLibrary1
+2026-03-26T12:13:21.6814246+00:00 xUnit.net ERROR     EHU.AutomationTests.SearchTests.Verify_Search_Functionality [FAIL]
+2026-03-26T12:13:21.6816905+00:00 xUnit.net INFORMATION       Assert.Equal() Failure: Strings differ
+2026-03-26T12:13:21.6817006+00:00 xUnit.net INFORMATION                                ↓ (pos 14)
+2026-03-26T12:13:21.6817022+00:00 xUnit.net INFORMATION       Expected: "https://en.ehu.lt/"
+2026-03-26T12:13:21.6817027+00:00 xUnit.net INFORMATION       Actual:   "https://en.ehuniversity.lt/"
+2026-03-26T12:13:21.6817038+00:00 xUnit.net INFORMATION                                ↑ (pos 14)
+2026-03-26T12:13:21.6818956+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-03-26T12:13:21.6821215+00:00 xUnit.net INFORMATION         C:\TestingAutomotasion\ClassLibrary1\SearchTests.cs(15,0): at EHU.AutomationTests.SearchTests.Verify_Search_Functionality()
+2026-03-26T12:13:21.6821339+00:00 xUnit.net INFORMATION            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+2026-03-26T12:13:21.6821380+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2026-03-26T12:13:21.6907790+00:00 xUnit.net INFORMATION   Finished:    ClassLibrary1 (ID = 'cbf401ae423781f4e8334273fc9bdd86f0a604ba4dd86ad554bcf86dd389ca91')
+2026-03-26T12:13:21.6936127+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-03-26T12:13:21.6967848+00:00 xUnit.net INFORMATION    ClassLibrary1  Total: 1, Errors: 0, Failed: 1, Skipped: 0, Not Run: 0, Time: 10.714s

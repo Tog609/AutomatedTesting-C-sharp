@@ -1,0 +1,33 @@
+2026-03-26T12:31:01.7289107+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.9.1+cb5afc3bb9bb01ebd75b57f89e8358b914ee2a49
+2026-03-26T12:31:01.7371370+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-03-26T12:31:01.7379533+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-03-26T12:31:01.7379577+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 12:31:01.710
+2026-03-26T12:31:01.7382469+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 24032
+2026-03-26T12:31:01.7382688+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.14
+2026-03-26T12:31:01.7382805+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.14\System.Private.CoreLib.dll
+2026-03-26T12:31:01.7382878+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-03-26T12:31:01.7383295+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\ClassLibrary1.dll
+2026-03-26T12:31:01.7383970+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\Log --results-directory C:\TestingAutomotasion\ClassLibrary1\TestResults --client-port 59779'
+2026-03-26T12:31:01.7393400+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-03-26T12:31:01.7508181+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-03-26T12:31:01.7586631+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-03-26T12:31:01.8995315+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.2.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-03-26T12:31:01.9054771+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.2.2+728c1dce01 (64-bit .NET 9.0.14)
+2026-03-26T12:31:01.9381984+00:00 xUnit.net INFORMATION   Discovering: ClassLibrary1
+2026-03-26T12:31:01.9638528+00:00 xUnit.net INFORMATION   Discovered:  ClassLibrary1
+2026-03-26T12:31:01.9806738+00:00 xUnit.net INFORMATION   Starting:    ClassLibrary1
+2026-03-26T12:31:21.5266276+00:00 xUnit.net ERROR     EHU.AutomationTests.NavigationTests.Verify_About_Page_Navigation [FAIL]
+2026-03-26T12:31:21.5268847+00:00 xUnit.net INFORMATION       OpenQA.Selenium.NoSuchWindowException : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.165)
+2026-03-26T12:31:21.5270908+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-03-26T12:31:21.5281395+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+2026-03-26T12:31:21.5281528+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T12:31:21.5281563+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T12:31:21.5281582+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.get_Url()
+2026-03-26T12:31:21.5281745+00:00 xUnit.net INFORMATION         C:\TestingAutomotasion\ClassLibrary1\EhuNavigationTest.cs(19,0): at EHU.AutomationTests.NavigationTests.Verify_About_Page_Navigation()
+2026-03-26T12:31:21.5281778+00:00 xUnit.net INFORMATION            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+2026-03-26T12:31:21.5281804+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2026-03-26T12:31:21.5294347+00:00 xUnit.net INFORMATION   Finished:    ClassLibrary1 (ID = 'cbf401ae423781f4e8334273fc9bdd86f0a604ba4dd86ad554bcf86dd389ca91')
+2026-03-26T12:31:21.5325322+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-03-26T12:31:21.5370781+00:00 xUnit.net INFORMATION    ClassLibrary1  Total: 3, Errors: 0, Failed: 1, Skipped: 0, Not Run: 0, Time: 19.551s

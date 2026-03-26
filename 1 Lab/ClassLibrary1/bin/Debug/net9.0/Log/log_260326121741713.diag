@@ -1,0 +1,42 @@
+2026-03-26T12:17:41.7171465+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.9.1+cb5afc3bb9bb01ebd75b57f89e8358b914ee2a49
+2026-03-26T12:17:41.7251911+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-03-26T12:17:41.7260205+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-03-26T12:17:41.7260251+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 12:17:41.700
+2026-03-26T12:17:41.7262829+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 42972
+2026-03-26T12:17:41.7263033+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.14
+2026-03-26T12:17:41.7263158+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.14\System.Private.CoreLib.dll
+2026-03-26T12:17:41.7263234+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-03-26T12:17:41.7263659+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\ClassLibrary1.dll
+2026-03-26T12:17:41.7264335+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\Log --results-directory C:\TestingAutomotasion\ClassLibrary1\TestResults --client-port 60087'
+2026-03-26T12:17:41.7274727+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-03-26T12:17:41.7387781+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-03-26T12:17:41.7463467+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-03-26T12:17:41.8725882+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.2.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-03-26T12:17:41.8780355+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.2.2+728c1dce01 (64-bit .NET 9.0.14)
+2026-03-26T12:17:41.9033669+00:00 xUnit.net INFORMATION   Discovering: ClassLibrary1
+2026-03-26T12:17:41.9257752+00:00 xUnit.net INFORMATION   Discovered:  ClassLibrary1
+2026-03-26T12:17:41.9393100+00:00 xUnit.net INFORMATION   Starting:    ClassLibrary1
+2026-03-26T12:18:08.1644699+00:00 xUnit.net ERROR     EHU.AutomationTests.SearchTests.Verify_Search_Functionality [FAIL]
+2026-03-26T12:18:08.1647990+00:00 xUnit.net INFORMATION       OpenQA.Selenium.WebDriverTimeoutException : Timed out after 10 seconds
+2026-03-26T12:18:08.1648110+00:00 xUnit.net INFORMATION       ---- OpenQA.Selenium.NoSuchElementException : no such element: Unable to locate element: {"method":"css selector","selector":".search-toggle"}
+  (Session info: chrome=146.0.7680.165); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+2026-03-26T12:18:08.1650611+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-03-26T12:18:08.1653109+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+2026-03-26T12:18:08.1653229+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+2026-03-26T12:18:08.1653266+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+2026-03-26T12:18:08.1653360+00:00 xUnit.net INFORMATION         C:\TestingAutomotasion\ClassLibrary1\SearchTests.cs(19,0): at EHU.AutomationTests.SearchTests.Verify_Search_Functionality()
+2026-03-26T12:18:08.1653396+00:00 xUnit.net INFORMATION            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+2026-03-26T12:18:08.1653428+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2026-03-26T12:18:08.1653471+00:00 xUnit.net INFORMATION         ----- Inner Stack Trace -----
+2026-03-26T12:18:08.1653496+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+2026-03-26T12:18:08.1653521+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T12:18:08.1653543+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T12:18:08.1653634+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+2026-03-26T12:18:08.1653652+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.By.<.ctor>b__6_0(ISearchContext context)
+2026-03-26T12:18:08.1653674+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.By.FindElement(ISearchContext context)
+2026-03-26T12:18:08.1653692+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.FindElement(By by)
+2026-03-26T12:18:08.1653721+00:00 xUnit.net INFORMATION            at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+2026-03-26T12:18:08.1653749+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+2026-03-26T12:18:08.1669252+00:00 xUnit.net INFORMATION   Finished:    ClassLibrary1 (ID = 'cbf401ae423781f4e8334273fc9bdd86f0a604ba4dd86ad554bcf86dd389ca91')
+2026-03-26T12:18:08.1701901+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-03-26T12:18:08.1735254+00:00 xUnit.net INFORMATION    ClassLibrary1  Total: 2, Errors: 0, Failed: 1, Skipped: 0, Not Run: 0, Time: 26.231s

@@ -1,0 +1,45 @@
+2026-03-26T12:15:10.9661802+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.9.1+cb5afc3bb9bb01ebd75b57f89e8358b914ee2a49
+2026-03-26T12:15:10.9742458+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-03-26T12:15:10.9752648+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-03-26T12:15:10.9752701+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 12:15:10.950
+2026-03-26T12:15:10.9755527+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 32892
+2026-03-26T12:15:10.9755748+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.14
+2026-03-26T12:15:10.9755859+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.14\System.Private.CoreLib.dll
+2026-03-26T12:15:10.9755937+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-03-26T12:15:10.9756360+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\ClassLibrary1.dll
+2026-03-26T12:15:10.9757013+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\Log --results-directory C:\TestingAutomotasion\ClassLibrary1\TestResults --client-port 56876'
+2026-03-26T12:15:10.9766178+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-03-26T12:15:10.9882033+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-03-26T12:15:10.9962091+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-03-26T12:15:11.1206109+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.2.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-03-26T12:15:11.1258882+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.2.2+728c1dce01 (64-bit .NET 9.0.14)
+2026-03-26T12:15:11.1487710+00:00 xUnit.net INFORMATION   Discovering: ClassLibrary1
+2026-03-26T12:15:11.1704775+00:00 xUnit.net INFORMATION   Discovered:  ClassLibrary1
+2026-03-26T12:15:11.1835726+00:00 xUnit.net INFORMATION   Starting:    ClassLibrary1
+2026-03-26T12:15:23.9477499+00:00 xUnit.net ERROR     EHU.AutomationTests.SearchTests.Verify_Search_Functionality [FAIL]
+2026-03-26T12:15:23.9485456+00:00 xUnit.net INFORMATION       OpenQA.Selenium.ElementNotInteractableException : element not interactable
+  (Session info: chrome=146.0.7680.165)
+2026-03-26T12:15:23.9488683+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-03-26T12:15:23.9491905+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+2026-03-26T12:15:23.9492002+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T12:15:23.9492066+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T12:15:23.9492122+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+2026-03-26T12:15:23.9492165+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebElement.SendKeys(String text)
+2026-03-26T12:15:23.9492405+00:00 xUnit.net INFORMATION         C:\TestingAutomotasion\ClassLibrary1\SearchTests.cs(16,0): at EHU.AutomationTests.SearchTests.Verify_Search_Functionality()
+2026-03-26T12:15:23.9492494+00:00 xUnit.net INFORMATION            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+2026-03-26T12:15:23.9492553+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2026-03-26T12:15:29.3915759+00:00 xUnit.net ERROR     EHU.AutomationTests.NavigationTests.Verify_About_Page_Navigation [FAIL]
+2026-03-26T12:15:29.3915933+00:00 xUnit.net INFORMATION       OpenQA.Selenium.WebDriverException : invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=146.0.7680.165)
+2026-03-26T12:15:29.3916050+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-03-26T12:15:29.3916354+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+2026-03-26T12:15:29.3916385+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T12:15:29.3916413+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T12:15:29.3916431+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.get_Url()
+2026-03-26T12:15:29.3916553+00:00 xUnit.net INFORMATION         C:\TestingAutomotasion\ClassLibrary1\EhuNavigationTest.cs(19,0): at EHU.AutomationTests.NavigationTests.Verify_About_Page_Navigation()
+2026-03-26T12:15:29.3916602+00:00 xUnit.net INFORMATION            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+2026-03-26T12:15:29.3916630+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2026-03-26T12:15:29.3957987+00:00 xUnit.net INFORMATION   Finished:    ClassLibrary1 (ID = 'cbf401ae423781f4e8334273fc9bdd86f0a604ba4dd86ad554bcf86dd389ca91')
+2026-03-26T12:15:29.3990001+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-03-26T12:15:29.4020825+00:00 xUnit.net INFORMATION    ClassLibrary1  Total: 2, Errors: 0, Failed: 2, Skipped: 0, Not Run: 0, Time: 18.215s

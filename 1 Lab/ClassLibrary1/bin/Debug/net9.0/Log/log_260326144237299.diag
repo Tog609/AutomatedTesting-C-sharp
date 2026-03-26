@@ -1,0 +1,29 @@
+2026-03-26T14:42:37.3035914+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.9.1+cb5afc3bb9bb01ebd75b57f89e8358b914ee2a49
+2026-03-26T14:42:37.3120861+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-03-26T14:42:37.3128681+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-03-26T14:42:37.3128724+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 14:42:37.285
+2026-03-26T14:42:37.3131301+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 8388
+2026-03-26T14:42:37.3131506+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.14
+2026-03-26T14:42:37.3131621+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.14\System.Private.CoreLib.dll
+2026-03-26T14:42:37.3131696+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-03-26T14:42:37.3132088+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\ClassLibrary1.dll
+2026-03-26T14:42:37.3132743+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\Log --results-directory C:\TestingAutomotasion\ClassLibrary1\TestResults --client-port 60255'
+2026-03-26T14:42:37.3144764+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-03-26T14:42:37.3255024+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-03-26T14:42:37.3334083+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-03-26T14:42:37.4593537+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.2.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-03-26T14:42:37.4656362+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.2.2+728c1dce01 (64-bit .NET 9.0.14)
+2026-03-26T14:42:37.4905072+00:00 xUnit.net INFORMATION   Discovering: ClassLibrary1
+2026-03-26T14:42:37.5155317+00:00 xUnit.net INFORMATION   Discovered:  ClassLibrary1
+2026-03-26T14:42:37.5288420+00:00 xUnit.net INFORMATION   Starting:    ClassLibrary1
+2026-03-26T14:42:43.9422582+00:00 xUnit.net ERROR     EHU.AutomationTests.ContactFormSubmissionTest.TestContactForm [FAIL]
+2026-03-26T14:42:43.9425169+00:00 xUnit.net INFORMATION       Assert.Contains() Failure: Sub-string not found
+2026-03-26T14:42:43.9425289+00:00 xUnit.net INFORMATION       String:    "franciskscarynacr@gmail.com"
+2026-03-26T14:42:43.9425306+00:00 xUnit.net INFORMATION       Not found: "ehu"
+2026-03-26T14:42:43.9427400+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-03-26T14:42:43.9431793+00:00 xUnit.net INFORMATION         C:\TestingAutomotasion\ClassLibrary1\ContactFormSubmissionTest.cs(30,0): at EHU.AutomationTests.ContactFormSubmissionTest.TestContactForm()
+2026-03-26T14:42:43.9431955+00:00 xUnit.net INFORMATION            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+2026-03-26T14:42:43.9432000+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2026-03-26T14:42:43.9511992+00:00 xUnit.net INFORMATION   Finished:    ClassLibrary1 (ID = 'cbf401ae423781f4e8334273fc9bdd86f0a604ba4dd86ad554bcf86dd389ca91')
+2026-03-26T14:42:43.9547063+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-03-26T14:42:43.9582436+00:00 xUnit.net INFORMATION    ClassLibrary1  Total: 1, Errors: 0, Failed: 1, Skipped: 0, Not Run: 0, Time: 6.425s

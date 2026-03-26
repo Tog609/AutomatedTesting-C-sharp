@@ -1,0 +1,86 @@
+2026-03-26T14:43:19.1800935+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Version: 1.9.1+cb5afc3bb9bb01ebd75b57f89e8358b914ee2a49
+2026-03-26T14:43:19.1887750+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging mode: asynchronous
+2026-03-26T14:43:19.1898489+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Logging level: Information
+2026-03-26T14:43:19.1898529+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION CreateBuilderAsync entry time: 14:43:19.161
+2026-03-26T14:43:19.1901221+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION PID: 34100
+2026-03-26T14:43:19.1901461+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime information: win-x64 - .NET 9.0.14
+2026-03-26T14:43:19.1901588+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Runtime location: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\9.0.14\System.Private.CoreLib.dll
+2026-03-26T14:43:19.1901666+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION IsDynamicCodeSupported: True
+2026-03-26T14:43:19.1902086+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Test module: C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\ClassLibrary1.dll
+2026-03-26T14:43:19.1902738+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION Command line arguments: '--server --diagnostic --diagnostic-verbosity Information --diagnostic-output-directory C:\TestingAutomotasion\ClassLibrary1\bin\Debug\net9.0\Log --results-directory C:\TestingAutomotasion\ClassLibrary1\TestResults --client-port 62443'
+2026-03-26T14:43:19.1911797+00:00 Microsoft.Testing.Platform.Builder.TestApplication INFORMATION TESTINGPLATFORM_DEFAULT_HANG_TIMEOUT: ''
+2026-03-26T14:43:19.2037805+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting RegisterEnvironmentVariablesConfigurationSource: 'True'
+2026-03-26T14:43:19.2122854+00:00 Microsoft.Testing.Platform.Hosts.TestHostBuilder INFORMATION Setting PlatformExitProcessOnUnhandledException: 'False', config file: False environment variable: 
+2026-03-26T14:43:19.3442674+00:00 Microsoft.Testing.Platform.Requests.TestHostTestFrameworkInvoker INFORMATION Test framework UID: '30ea7c6e-dd24-4152-a360-1387158cd41d' Version: '3.2.2' DisplayName: 'xUnit.net v3 Microsoft.Testing.Platform test framework' Description: 'xUnit.net v3 Microsoft.Testing.Platform test framework'
+2026-03-26T14:43:19.3500524+00:00 xUnit.net INFORMATION xUnit.net v3 In-Process Runner v3.2.2+728c1dce01 (64-bit .NET 9.0.14)
+2026-03-26T14:43:19.3769185+00:00 xUnit.net INFORMATION   Discovering: ClassLibrary1
+2026-03-26T14:43:19.3995471+00:00 xUnit.net INFORMATION   Discovered:  ClassLibrary1
+2026-03-26T14:43:19.4130673+00:00 xUnit.net INFORMATION   Starting:    ClassLibrary1
+2026-03-26T14:43:27.9725178+00:00 xUnit.net ERROR     EHU.AutomationTests.ContactFormSubmissionTest.TestContactForm [FAIL]
+2026-03-26T14:43:27.9729253+00:00 xUnit.net INFORMATION       Assert.True() Failure
+2026-03-26T14:43:27.9730164+00:00 xUnit.net INFORMATION       Expected: True
+2026-03-26T14:43:27.9730218+00:00 xUnit.net INFORMATION       Actual:   False
+2026-03-26T14:43:27.9733777+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-03-26T14:43:27.9738310+00:00 xUnit.net INFORMATION         C:\TestingAutomotasion\ClassLibrary1\ContactFormSubmissionTest.cs(33,0): at EHU.AutomationTests.ContactFormSubmissionTest.TestContactForm()
+2026-03-26T14:43:27.9738493+00:00 xUnit.net INFORMATION            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+2026-03-26T14:43:27.9738657+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2026-03-26T14:43:32.6533833+00:00 xUnit.net ERROR     EHU.AutomationTests.SearchTests.Verify_Search_Functionality [FAIL]
+2026-03-26T14:43:32.6534028+00:00 xUnit.net INFORMATION       OpenQA.Selenium.WebDriverException : invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=146.0.7680.165)
+2026-03-26T14:43:32.6534111+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-03-26T14:43:32.6534195+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+2026-03-26T14:43:32.6534225+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T14:43:32.6534252+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T14:43:32.6534363+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.PerformActions(IList`1 actionSequenceList)
+2026-03-26T14:43:32.6534382+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Interactions.Actions.Perform()
+2026-03-26T14:43:32.6534454+00:00 xUnit.net INFORMATION         C:\TestingAutomotasion\ClassLibrary1\SearchTests.cs(19,0): at EHU.AutomationTests.SearchTests.Verify_Search_Functionality()
+2026-03-26T14:43:32.6534490+00:00 xUnit.net INFORMATION            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+2026-03-26T14:43:32.6534518+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2026-03-26T14:43:37.1031877+00:00 xUnit.net ERROR     EHU.AutomationTests.NavigationTests.Verify_About_Page_Navigation [FAIL]
+2026-03-26T14:43:37.1032104+00:00 xUnit.net INFORMATION       OpenQA.Selenium.WebDriverTimeoutException : Timed out after 5 seconds
+2026-03-26T14:43:37.1032125+00:00 xUnit.net INFORMATION       ---- OpenQA.Selenium.NoSuchWindowException : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.165)
+2026-03-26T14:43:37.1032615+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-03-26T14:43:37.1033006+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+2026-03-26T14:43:37.1033052+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+2026-03-26T14:43:37.1033088+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+2026-03-26T14:43:37.1033188+00:00 xUnit.net INFORMATION         C:\TestingAutomotasion\ClassLibrary1\EhuNavigationTest.cs(18,0): at EHU.AutomationTests.NavigationTests.Verify_About_Page_Navigation()
+2026-03-26T14:43:37.1033235+00:00 xUnit.net INFORMATION            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+2026-03-26T14:43:37.1033285+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2026-03-26T14:43:37.1033399+00:00 xUnit.net INFORMATION         ----- Inner Stack Trace -----
+2026-03-26T14:43:37.1033506+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+2026-03-26T14:43:37.1033547+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T14:43:37.1033583+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T14:43:37.1033626+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+2026-03-26T14:43:37.1033654+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.By.<.ctor>b__6_0(ISearchContext context)
+2026-03-26T14:43:37.1033687+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.By.FindElement(ISearchContext context)
+2026-03-26T14:43:37.1033725+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.FindElement(By by)
+2026-03-26T14:43:37.1033767+00:00 xUnit.net INFORMATION            at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass19_0.<ElementToBeClickable>b__0(IWebDriver driver)
+2026-03-26T14:43:37.1033806+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+2026-03-26T14:43:41.9491644+00:00 xUnit.net ERROR     EHU.AutomationTests.LanguageTests.TestLanguageSwticher [FAIL]
+2026-03-26T14:43:41.9491793+00:00 xUnit.net INFORMATION       OpenQA.Selenium.WebDriverTimeoutException : Timed out after 5 seconds
+2026-03-26T14:43:41.9491812+00:00 xUnit.net INFORMATION       ---- OpenQA.Selenium.NoSuchWindowException : no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=146.0.7680.165)
+2026-03-26T14:43:41.9491947+00:00 xUnit.net INFORMATION       Stack Trace:
+2026-03-26T14:43:41.9492088+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+2026-03-26T14:43:41.9492157+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+2026-03-26T14:43:41.9492209+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+2026-03-26T14:43:41.9492327+00:00 xUnit.net INFORMATION         C:\TestingAutomotasion\ClassLibrary1\LanguageTests.cs(23,0): at EHU.AutomationTests.LanguageTests.TestLanguageSwticher()
+2026-03-26T14:43:41.9492405+00:00 xUnit.net INFORMATION            at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)
+2026-03-26T14:43:41.9492478+00:00 xUnit.net INFORMATION            at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)
+2026-03-26T14:43:41.9492484+00:00 xUnit.net INFORMATION         ----- Inner Stack Trace -----
+2026-03-26T14:43:41.9492550+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.UnpackAndThrowOnError(Response errorResponse, String commandToExecute)
+2026-03-26T14:43:41.9492641+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.ExecuteAsync(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T14:43:41.9492704+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+2026-03-26T14:43:41.9492754+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.FindElement(String mechanism, String value)
+2026-03-26T14:43:41.9492798+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.By.<.ctor>b__6_0(ISearchContext context)
+2026-03-26T14:43:41.9492848+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.By.FindElement(ISearchContext context)
+2026-03-26T14:43:41.9492884+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.WebDriver.FindElement(By by)
+2026-03-26T14:43:41.9492958+00:00 xUnit.net INFORMATION            at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass7_0.<ElementIsVisible>b__0(IWebDriver driver)
+2026-03-26T14:43:41.9493026+00:00 xUnit.net INFORMATION            at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition, CancellationToken token)
+2026-03-26T14:43:41.9530167+00:00 xUnit.net INFORMATION   Finished:    ClassLibrary1 (ID = 'cbf401ae423781f4e8334273fc9bdd86f0a604ba4dd86ad554bcf86dd389ca91')
+2026-03-26T14:43:41.9558434+00:00 xUnit.net INFORMATION === TEST EXECUTION SUMMARY ===
+2026-03-26T14:43:41.9593494+00:00 xUnit.net INFORMATION    ClassLibrary1  Total: 4, Errors: 0, Failed: 4, Skipped: 0, Not Run: 0, Time: 22.542s
