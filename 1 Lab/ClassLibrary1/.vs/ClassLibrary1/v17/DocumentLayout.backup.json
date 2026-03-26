@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\TestingAutomotasion\\ClassLibrary1\\",
+  "WorkspaceRootPath": "C:\\AutomatedTesting-C-sharp\\1 Lab\\ClassLibrary1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|c:\\testingautomotasion\\classlibrary1\\contactformsubmissiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|c:\\automatedtesting-c-sharp\\1 lab\\classlibrary1\\contactformsubmissiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|solutionrelative:contactformsubmissiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|c:\\testingautomotasion\\classlibrary1\\ehunavigationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|c:\\automatedtesting-c-sharp\\1 lab\\classlibrary1\\ehunavigationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|solutionrelative:ehunavigationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|c:\\testingautomotasion\\classlibrary1\\languagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|c:\\automatedtesting-c-sharp\\1 lab\\classlibrary1\\languagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|solutionrelative:languagetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|c:\\testingautomotasion\\classlibrary1\\searchtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|c:\\automatedtesting-c-sharp\\1 lab\\classlibrary1\\searchtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|solutionrelative:searchtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|c:\\testingautomotasion\\classlibrary1\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|solutionrelative:basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|c:\\automatedtesting-c-sharp\\1 lab\\classlibrary1\\classlibrary1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|solutionrelative:classlibrary1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|c:\\testingautomotasion\\classlibrary1\\classlibrary1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|solutionrelative:classlibrary1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|c:\\automatedtesting-c-sharp\\1 lab\\classlibrary1\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EBAF5C7-2639-4A2E-A7F5-896FE9913F96}|ClassLibrary1.csproj|solutionrelative:basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -56,11 +56,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ContactFormSubmissionTest.cs",
-              "DocumentMoniker": "C:\\TestingAutomotasion\\ClassLibrary1\\ContactFormSubmissionTest.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\1 Lab\\ClassLibrary1\\ContactFormSubmissionTest.cs",
               "RelativeDocumentMoniker": "ContactFormSubmissionTest.cs",
-              "ToolTip": "C:\\TestingAutomotasion\\ClassLibrary1\\ContactFormSubmissionTest.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\1 Lab\\ClassLibrary1\\ContactFormSubmissionTest.cs",
               "RelativeToolTip": "ContactFormSubmissionTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-26T14:21:18.118Z",
               "EditorCaption": ""
@@ -69,9 +69,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "LanguageTests.cs",
-              "DocumentMoniker": "C:\\TestingAutomotasion\\ClassLibrary1\\LanguageTests.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\1 Lab\\ClassLibrary1\\LanguageTests.cs",
               "RelativeDocumentMoniker": "LanguageTests.cs",
-              "ToolTip": "C:\\TestingAutomotasion\\ClassLibrary1\\LanguageTests.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\1 Lab\\ClassLibrary1\\LanguageTests.cs",
               "RelativeToolTip": "LanguageTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -82,9 +82,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "SearchTests.cs",
-              "DocumentMoniker": "C:\\TestingAutomotasion\\ClassLibrary1\\SearchTests.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\1 Lab\\ClassLibrary1\\SearchTests.cs",
               "RelativeDocumentMoniker": "SearchTests.cs",
-              "ToolTip": "C:\\TestingAutomotasion\\ClassLibrary1\\SearchTests.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\1 Lab\\ClassLibrary1\\SearchTests.cs",
               "RelativeToolTip": "SearchTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,24 +93,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "BaseTest.cs",
-              "DocumentMoniker": "C:\\TestingAutomotasion\\ClassLibrary1\\BaseTest.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\1 Lab\\ClassLibrary1\\BaseTest.cs",
               "RelativeDocumentMoniker": "BaseTest.cs",
-              "ToolTip": "C:\\TestingAutomotasion\\ClassLibrary1\\BaseTest.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\1 Lab\\ClassLibrary1\\BaseTest.cs",
               "RelativeToolTip": "BaseTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-26T11:41:28.567Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-26T11:41:28.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "ClassLibrary1.csproj",
-              "DocumentMoniker": "C:\\TestingAutomotasion\\ClassLibrary1\\ClassLibrary1.csproj",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\1 Lab\\ClassLibrary1\\ClassLibrary1.csproj",
               "RelativeDocumentMoniker": "ClassLibrary1.csproj",
-              "ToolTip": "C:\\TestingAutomotasion\\ClassLibrary1\\ClassLibrary1.csproj",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\1 Lab\\ClassLibrary1\\ClassLibrary1.csproj",
               "RelativeToolTip": "ClassLibrary1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -121,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EhuNavigationTest.cs",
-              "DocumentMoniker": "C:\\TestingAutomotasion\\ClassLibrary1\\EhuNavigationTest.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\1 Lab\\ClassLibrary1\\EhuNavigationTest.cs",
               "RelativeDocumentMoniker": "EhuNavigationTest.cs",
-              "ToolTip": "C:\\TestingAutomotasion\\ClassLibrary1\\EhuNavigationTest.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\1 Lab\\ClassLibrary1\\EhuNavigationTest.cs",
               "RelativeToolTip": "EhuNavigationTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

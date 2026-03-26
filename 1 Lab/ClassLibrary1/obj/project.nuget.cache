@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fShl1Ch82c4=",
+  "dgSpecHash": "VdAT50FFNa8=",
   "success": true,
-  "projectFilePath": "C:\\TestingAutomotasion\\ClassLibrary1\\ClassLibrary1.csproj",
+  "projectFilePath": "C:\\AutomatedTesting-C-sharp\\1 Lab\\ClassLibrary1\\ClassLibrary1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vanya\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
     "C:\\Users\\vanya\\.nuget\\packages\\microsoft.applicationinsights\\2.23.0\\microsoft.applicationinsights.2.23.0.nupkg.sha512",
