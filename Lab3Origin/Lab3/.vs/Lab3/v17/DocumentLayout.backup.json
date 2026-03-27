@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\TestingAutomotasion\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\testingautomotasion\\xunittests\\xunittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\testingautomotasion\\nunittest\\searchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\testingautomotasion\\nunittest\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\testingautomotasion\\xunittests\\navigationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\testingautomotasion\\xunittests\\searchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\testingautomotasion\\xunittests\\languagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\testingautomotasion\\xunittests\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\testingautomotasion\\nunittest\\contactformsubmissiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\testingautomotasion\\xunittests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\testingautomotasion\\xunittests\\contactformsubmissiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\testingautomotasion\\nunittest\\navigationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\testingautomotasion\\nunittest\\languagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\testingautomotasion\\nunittest\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LanguageTest.cs",
+              "DocumentMoniker": "C:\\TestingAutomotasion\\NunitTest\\LanguageTest.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\LanguageTest.cs",
+              "ToolTip": "C:\\TestingAutomotasion\\NunitTest\\LanguageTest.cs",
+              "RelativeToolTip": "..\\NunitTest\\LanguageTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T14:24:07.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\TestingAutomotasion\\NunitTest\\BaseTest.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\BaseTest.cs",
+              "ToolTip": "C:\\TestingAutomotasion\\NunitTest\\BaseTest.cs",
+              "RelativeToolTip": "..\\NunitTest\\BaseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T14:12:06.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\TestingAutomotasion\\NunitTest\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\AssemblyInfo.cs",
+              "ToolTip": "C:\\TestingAutomotasion\\NunitTest\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\NunitTest\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T14:55:01.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\TestingAutomotasion\\XunitTests\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\XunitTests\\AssemblyInfo.cs",
+              "ToolTip": "C:\\TestingAutomotasion\\XunitTests\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\XunitTests\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T14:56:12.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LanguageTest.cs",
+              "DocumentMoniker": "C:\\TestingAutomotasion\\XunitTests\\LanguageTest.cs",
+              "RelativeDocumentMoniker": "..\\XunitTests\\LanguageTest.cs",
+              "ToolTip": "C:\\TestingAutomotasion\\XunitTests\\LanguageTest.cs",
+              "RelativeToolTip": "..\\XunitTests\\LanguageTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T13:50:04.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavigationTest.cs",
+              "DocumentMoniker": "C:\\TestingAutomotasion\\XunitTests\\NavigationTest.cs",
+              "RelativeDocumentMoniker": "..\\XunitTests\\NavigationTest.cs",
+              "ToolTip": "C:\\TestingAutomotasion\\XunitTests\\NavigationTest.cs",
+              "RelativeToolTip": "..\\XunitTests\\NavigationTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T13:49:39.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SearchTest.cs",
+              "DocumentMoniker": "C:\\TestingAutomotasion\\XunitTests\\SearchTest.cs",
+              "RelativeDocumentMoniker": "..\\XunitTests\\SearchTest.cs",
+              "ToolTip": "C:\\TestingAutomotasion\\XunitTests\\SearchTest.cs",
+              "RelativeToolTip": "..\\XunitTests\\SearchTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T13:50:56.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchTest.cs",
+              "DocumentMoniker": "C:\\TestingAutomotasion\\NunitTest\\SearchTest.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\SearchTest.cs",
+              "ToolTip": "C:\\TestingAutomotasion\\NunitTest\\SearchTest.cs",
+              "RelativeToolTip": "..\\NunitTest\\SearchTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T14:25:25.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XunitTests.csproj",
+              "DocumentMoniker": "C:\\TestingAutomotasion\\XunitTests\\XunitTests.csproj",
+              "RelativeDocumentMoniker": "..\\XunitTests\\XunitTests.csproj",
+              "ToolTip": "C:\\TestingAutomotasion\\XunitTests\\XunitTests.csproj",
+              "RelativeToolTip": "..\\XunitTests\\XunitTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-27T13:17:43.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NavigationTest.cs",
+              "DocumentMoniker": "C:\\TestingAutomotasion\\NunitTest\\NavigationTest.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\NavigationTest.cs",
+              "ToolTip": "C:\\TestingAutomotasion\\NunitTest\\NavigationTest.cs",
+              "RelativeToolTip": "..\\NunitTest\\NavigationTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T14:21:20.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactFormSubmissionTest.cs",
+              "DocumentMoniker": "C:\\TestingAutomotasion\\NunitTest\\ContactFormSubmissionTest.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\ContactFormSubmissionTest.cs",
+              "ToolTip": "C:\\TestingAutomotasion\\NunitTest\\ContactFormSubmissionTest.cs",
+              "RelativeToolTip": "..\\NunitTest\\ContactFormSubmissionTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T14:25:59.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\TestingAutomotasion\\XunitTests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "..\\XunitTests\\BaseTest.cs",
+              "ToolTip": "C:\\TestingAutomotasion\\XunitTests\\BaseTest.cs",
+              "RelativeToolTip": "..\\XunitTests\\BaseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T13:16:51.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactFormSubmissionTest.cs",
+              "DocumentMoniker": "C:\\TestingAutomotasion\\XunitTests\\ContactFormSubmissionTest.cs",
+              "RelativeDocumentMoniker": "..\\XunitTests\\ContactFormSubmissionTest.cs",
+              "ToolTip": "C:\\TestingAutomotasion\\XunitTests\\ContactFormSubmissionTest.cs",
+              "RelativeToolTip": "..\\XunitTests\\ContactFormSubmissionTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T13:49:01.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
