@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XunitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6325d287425f80e92c9058654121f3bd624c61a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7352b24d50aae5b052d2d1a9c0ee2c6a3bcbb819")]
 [assembly: System.Reflection.AssemblyProductAttribute("XunitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XunitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

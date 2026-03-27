@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y4YS8bkQD0w=",
+  "dgSpecHash": "FRcmkhYGoyk=",
   "success": true,
-  "projectFilePath": "C:\\AutomatedTesting-C-sharp\\NunitTest\\NunitTests.csproj",
+  "projectFilePath": "C:\\AutomatedTesting-C-sharp\\Lab3Origin\\NunitTest\\NunitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vanya\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\vanya\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",

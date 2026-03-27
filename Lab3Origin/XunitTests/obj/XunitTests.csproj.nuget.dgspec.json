@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AutomatedTesting-C-sharp\\XunitTests\\XunitTests.csproj": {}
+    "C:\\AutomatedTesting-C-sharp\\Lab3Origin\\XunitTests\\XunitTests.csproj": {}
   },
   "projects": {
-    "C:\\AutomatedTesting-C-sharp\\XunitTests\\XunitTests.csproj": {
+    "C:\\AutomatedTesting-C-sharp\\Lab3Origin\\XunitTests\\XunitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AutomatedTesting-C-sharp\\XunitTests\\XunitTests.csproj",
+        "projectUniqueName": "C:\\AutomatedTesting-C-sharp\\Lab3Origin\\XunitTests\\XunitTests.csproj",
         "projectName": "XunitTests",
-        "projectPath": "C:\\AutomatedTesting-C-sharp\\XunitTests\\XunitTests.csproj",
+        "projectPath": "C:\\AutomatedTesting-C-sharp\\Lab3Origin\\XunitTests\\XunitTests.csproj",
         "packagesPath": "C:\\Users\\vanya\\.nuget\\packages\\",
-        "outputPath": "C:\\AutomatedTesting-C-sharp\\XunitTests\\obj\\",
+        "outputPath": "C:\\AutomatedTesting-C-sharp\\Lab3Origin\\XunitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

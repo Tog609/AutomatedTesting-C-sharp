@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AutomatedTesting-C-sharp\\NunitTest\\NunitTests.csproj": {}
+    "C:\\AutomatedTesting-C-sharp\\Lab3Origin\\NunitTest\\NunitTests.csproj": {}
   },
   "projects": {
-    "C:\\AutomatedTesting-C-sharp\\NunitTest\\NunitTests.csproj": {
+    "C:\\AutomatedTesting-C-sharp\\Lab3Origin\\NunitTest\\NunitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AutomatedTesting-C-sharp\\NunitTest\\NunitTests.csproj",
+        "projectUniqueName": "C:\\AutomatedTesting-C-sharp\\Lab3Origin\\NunitTest\\NunitTests.csproj",
         "projectName": "NunitTests",
-        "projectPath": "C:\\AutomatedTesting-C-sharp\\NunitTest\\NunitTests.csproj",
+        "projectPath": "C:\\AutomatedTesting-C-sharp\\Lab3Origin\\NunitTest\\NunitTests.csproj",
         "packagesPath": "C:\\Users\\vanya\\.nuget\\packages\\",
-        "outputPath": "C:\\AutomatedTesting-C-sharp\\NunitTest\\obj\\",
+        "outputPath": "C:\\AutomatedTesting-C-sharp\\Lab3Origin\\NunitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
