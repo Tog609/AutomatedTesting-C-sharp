@@ -54,6 +54,14 @@
               "target": "Package",
               "version": "[3.11.0, )"
             },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[10.0.5, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[10.0.5, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.12.0, )"
@@ -69,6 +77,18 @@
             "NUnit3TestAdapter": {
               "target": "Package",
               "version": "[4.6.0, )"
+            },
+            "Reqnroll": {
+              "target": "Package",
+              "version": "[3.3.4, )"
+            },
+            "Reqnroll.NUnit": {
+              "target": "Package",
+              "version": "[3.3.4, )"
+            },
+            "Reqnroll.Tools.MsBuild.Generation": {
+              "target": "Package",
+              "version": "[3.3.4, )"
             },
             "Selenium.WebDriver": {
               "target": "Package",

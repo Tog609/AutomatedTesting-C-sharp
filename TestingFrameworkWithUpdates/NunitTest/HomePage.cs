@@ -4,7 +4,6 @@ namespace NUnit.AutomationTests
     public class HomePage
     {
         private readonly IWebDriver _driver;
-
         public LanguageMenuComponent LanguageMenu { get; }
         public NavigationMenuComponent Navigation { get; }
         public SearchComponent Search { get; }

@@ -10,12 +10,12 @@ namespace NUnit.AutomationTests
         [TestCase("Rector", "https://en.ehuniversity.lt/?s=Rector")]
         public void Verify_Search_Functionality(string text, string expectedUrl)
         {
-            var home = new HomePage(driver);
+            var home = new HomePage(Driver);
             home.Open(BaseUrl);
 
             home.Search.Search(text);
 
-            Assert.That(driver.Url, Is.EqualTo(expectedUrl));
+            Assert.That(Driver.Url, Is.EqualTo(expectedUrl));
         }
     }
 }

@@ -8,7 +8,7 @@ namespace NUnit.AutomationTests
         [Test]
         public void ContactInfo_IsDisplayed()
         {
-            var contact = new ContactPage(driver);
+            var contact = new ContactPage(Driver);
             contact.Open();
 
             Assert.That(contact.GetItemsCount(), Is.GreaterThanOrEqualTo(4));

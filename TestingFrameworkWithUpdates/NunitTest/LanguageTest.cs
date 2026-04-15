@@ -10,12 +10,12 @@ namespace NUnit.AutomationTests
         [TestCase(Language.Russian, "https://ru.ehuniversity.lt/")]
         public void TestLanguageSwitcher(Language lang, string expectedUrl)
         {
-            var home = new HomePage(driver);
+            var home = new HomePage(Driver);
             home.Open(BaseUrl);
 
             home.LanguageMenu.Select(lang);
 
-            Assert.That(driver.Url, Is.EqualTo(expectedUrl));
+            Assert.That(Driver.Url, Is.EqualTo(expectedUrl));
         }
     }
 }
