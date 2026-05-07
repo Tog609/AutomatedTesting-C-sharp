@@ -1,9 +1,9 @@
-﻿using OpenQA.Selenium;
+﻿using Shouldly;
+using Xunit;
+using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 using System;
-using System.Buffers.Text;
-using Xunit;
 
 namespace Xunit.AutomationTests
 {
@@ -24,11 +24,11 @@ namespace Xunit.AutomationTests
 
             wait.Until(d => d.Url.Contains(urlPart));
 
-            Assert.Contains(urlPart, driver.Url);
-            Assert.Contains(titlePart, driver.Title);
+            driver.Url.ShouldContain(urlPart);
+            driver.Title.ShouldContain(titlePart);
 
             var header = wait.Until(ExpectedConditions.ElementIsVisible(By.TagName("h1"))).Text;
-            Assert.Contains(linkText, header);
+            header.ShouldContain(linkText);
         }
     }
 }

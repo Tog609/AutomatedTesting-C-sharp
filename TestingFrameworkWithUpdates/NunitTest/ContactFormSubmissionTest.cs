@@ -1,4 +1,6 @@
 ﻿using NUnit.Framework;
+using Shouldly;
+
 
 namespace NUnit.AutomationTests
 {
@@ -11,17 +13,15 @@ namespace NUnit.AutomationTests
             var contact = new ContactPage(Driver);
             contact.Open();
 
-            Assert.That(contact.GetItemsCount(), Is.GreaterThanOrEqualTo(4));
-
-            Assert.That(contact.GetEmail(), Does.Contain("franciskscarynacr@gmail.com"));
-
-            Assert.That(contact.GetPhoneByCountry("LT"), Does.Contain("+370 68 771365"));
-            Assert.That(contact.GetPhoneByCountry("BY"), Does.Contain("+375 29 5781488"));
+            contact.GetItemsCount().ShouldBeGreaterThanOrEqualTo(4);
+            contact.GetEmail().ShouldContain("franciskscarynacr@gmail.com");
+            contact.GetPhoneByCountry("LT").ShouldContain("+370 68 771365");
+            contact.GetPhoneByCountry("BY").ShouldContain("+375 29 5781488");
 
             var social = contact.GetSocialBlock();
-            Assert.That(social, Does.Contain("Facebook"));
-            Assert.That(social, Does.Contain("Telegram"));
-            Assert.That(social, Does.Contain("VK"));
+            social.ShouldContain("Facebook");
+            social.ShouldContain("Telegram");
+            social.ShouldContain("VK");
         }
     }
 }

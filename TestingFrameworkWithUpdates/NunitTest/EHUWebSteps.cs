@@ -1,6 +1,8 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
 using Reqnroll;
+using Shouldly;
+
 
 namespace NUnit.AutomationTests.BDD
 {
@@ -30,20 +32,20 @@ namespace NUnit.AutomationTests.BDD
         [Then(@"the page URL should contain ""(.*)""")]
         public void ThenUrlShouldContain(string urlPart)
         {
-            Assert.That(_driver.Url, Does.Contain(urlPart));
+            _driver.Url.ShouldContain(urlPart);
         }
 
         [Then(@"the page title should contain ""(.*)""")]
         public void ThenTitleShouldContain(string titlePart)
         {
-            Assert.That(_driver.Title, Does.Contain(titlePart));
+            _driver.Title.ShouldContain(titlePart);
         }
 
         [Then(@"the page header should contain ""(.*)""")]
         public void ThenHeaderShouldContain(string titlePart)
         {
             var header = _driver.FindElement(By.TagName("h1")).Text;
-            Assert.That(header, Does.Contain(titlePart));
+            header.ShouldContain(titlePart);
         }
 
         [When(@"I search for ""(.*)""")]
@@ -56,7 +58,7 @@ namespace NUnit.AutomationTests.BDD
         [Then(@"the search results URL should be ""(.*)""")]
         public void ThenSearchUrlShouldBe(string expectedUrl)
         {
-            Assert.That(_driver.Url, Is.EqualTo(expectedUrl));
+            _driver.Url.ShouldBe(expectedUrl);
         }
 
         [Given("I open the contact page")]
@@ -70,21 +72,21 @@ namespace NUnit.AutomationTests.BDD
         public void ThenContactListShouldContainAtLeast4()
         {
             var contact = new ContactPage(_driver);
-            Assert.That(contact.GetItemsCount(), Is.GreaterThanOrEqualTo(4));
+            contact.GetItemsCount().ShouldBeGreaterThanOrEqualTo(4);
         }
 
         [Then(@"the email should contain ""(.*)""")]
         public void ThenEmailShouldContain(string email)
         {
             var contact = new ContactPage(_driver);
-            Assert.That(contact.GetEmail(), Does.Contain(email));
+            contact.GetEmail().ShouldContain(email);
         }
 
         [Then(@"the phone for country ""(.*)"" should contain ""(.*)""")]
         public void ThenPhoneShouldContain(string country, string phone)
         {
             var contact = new ContactPage(_driver);
-            Assert.That(contact.GetPhoneByCountry(country), Does.Contain(phone));
+            contact.GetPhoneByCountry(country).ShouldContain(phone);
         }
 
         [Then("the social block should contain:")]
@@ -94,7 +96,7 @@ namespace NUnit.AutomationTests.BDD
             var social = contact.GetSocialBlock();
 
             foreach (var row in table.Rows)
-                Assert.That(social, Does.Contain(row[0]));
+                social.ShouldContain(row[0]);
         }
 
         [When(@"I change language to ""(.*)""")]
@@ -116,7 +118,7 @@ namespace NUnit.AutomationTests.BDD
         [Then("the page should reload in Lithuanian")]
         public void ThenPageReloadsInLithuanian()
         {
-            Assert.That(_driver.Url, Does.Contain("https://lt.ehuniversity.lt/"));
+            _driver.Url.ShouldContain("https://lt.ehuniversity.lt/");
         }
     }
 }

@@ -3,6 +3,8 @@ using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 using System;
+using Shouldly;
+
 
 namespace NUnit.AutomationTests
 {
@@ -18,11 +20,11 @@ namespace NUnit.AutomationTests
 
             home.Navigation.ClickLink(linkText);
 
-            Assert.That(Driver.Url, Does.Contain(urlPart));
-            Assert.That(Driver.Title, Does.Contain(titlePart));
+            Driver.Url.ShouldContain(urlPart);
+            Driver.Title.ShouldContain(titlePart);
 
             var header = Driver.FindElement(By.TagName("h1")).Text;
-            Assert.That(header, Does.Contain(titlePart));
+            header.ShouldContain(titlePart);
         }
     }
 }

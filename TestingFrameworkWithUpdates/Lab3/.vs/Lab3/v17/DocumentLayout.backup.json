@@ -3,19 +3,52 @@
   "WorkspaceRootPath": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\Lab3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\ehuwebsite.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\xunittests\\xunittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\xunittests\\searchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\xunittests\\languagetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\xunittests\\navigationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\xunittests\\contactformsubmissiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\nunittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\xunittests\\driversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\xunittests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\infrastructure\\reporting\\reporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\xunittests\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\ehuwebsteps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\reqnrollhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\testrunhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\contactformsubmissiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\infrastructure\\logging\\loggingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\contactpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\searchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\searchcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\languagemenucomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -27,34 +60,22 @@
       "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\navigationmenucomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\navigationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\reqnrollhooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\searchcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\contactpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\searchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\contactformsubmissiontest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\nunittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\navigationtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\xunittests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\xunittests\\driversingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\xunittests\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1952659C-B941-4441-8594-4FFB2F6EB3F6}|..\\XunitTests\\XunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\xunittests\\xunittests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{CB635B30-8E72-4DD4-8588-A7159D9FB448}|..\\NunitTest\\NunitTests.csproj|c:\\automatedtesting-c-sharp\\testingframeworkwithupdates\\nunittest\\ehuwebsite.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\TestingAutomotasion\\XunitTests\\XunitTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -106,6 +127,58 @@
           "SelectedChildIndex": 10,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchTest.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\SearchTest.cs",
+              "RelativeDocumentMoniker": "..\\XunitTests\\SearchTest.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\SearchTest.cs",
+              "RelativeToolTip": "..\\XunitTests\\SearchTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:14:04.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavigationTest.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\NavigationTest.cs",
+              "RelativeDocumentMoniker": "..\\XunitTests\\NavigationTest.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\NavigationTest.cs*",
+              "RelativeToolTip": "..\\XunitTests\\NavigationTest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:13:58.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LanguageTest.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\LanguageTest.cs",
+              "RelativeDocumentMoniker": "..\\XunitTests\\LanguageTest.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\LanguageTest.cs*",
+              "RelativeToolTip": "..\\XunitTests\\LanguageTest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:13:49.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactFormSubmissionTest.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\ContactFormSubmissionTest.cs",
+              "RelativeDocumentMoniker": "..\\XunitTests\\ContactFormSubmissionTest.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\ContactFormSubmissionTest.cs*",
+              "RelativeToolTip": "..\\XunitTests\\ContactFormSubmissionTest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:13:41.259Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
@@ -123,124 +196,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LanguageTest.cs",
-              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\LanguageTest.cs",
-              "RelativeDocumentMoniker": "..\\NunitTest\\LanguageTest.cs",
-              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\LanguageTest.cs",
-              "RelativeToolTip": "..\\NunitTest\\LanguageTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "TestRunHooks.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\TestRunHooks.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\TestRunHooks.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\TestRunHooks.cs",
+              "RelativeToolTip": "..\\NunitTest\\TestRunHooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:51:21.189Z",
+              "WhenOpened": "2026-05-07T12:30:46.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LanguageMenuComponent.cs",
-              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\LanguageMenuComponent.cs",
-              "RelativeDocumentMoniker": "..\\NunitTest\\LanguageMenuComponent.cs",
-              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\LanguageMenuComponent.cs",
-              "RelativeToolTip": "..\\NunitTest\\LanguageMenuComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:43:32.253Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "EHUWebSteps.cs",
               "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\EHUWebSteps.cs",
               "RelativeDocumentMoniker": "..\\NunitTest\\EHUWebSteps.cs",
               "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\EHUWebSteps.cs",
               "RelativeToolTip": "..\\NunitTest\\EHUWebSteps.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAwwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-15T10:26:33.165Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ContactFormSubmissionTest.cs",
-              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\ContactFormSubmissionTest.cs",
-              "RelativeDocumentMoniker": "..\\NunitTest\\ContactFormSubmissionTest.cs",
-              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\ContactFormSubmissionTest.cs",
-              "RelativeToolTip": "..\\NunitTest\\ContactFormSubmissionTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:41:58.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContactPage.cs",
-              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\ContactPage.cs",
-              "RelativeDocumentMoniker": "..\\NunitTest\\ContactPage.cs",
-              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\ContactPage.cs",
-              "RelativeToolTip": "..\\NunitTest\\ContactPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:41:43.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReqnrollHooks.cs",
-              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\ReqnrollHooks.cs",
-              "RelativeDocumentMoniker": "..\\NunitTest\\ReqnrollHooks.cs",
-              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\ReqnrollHooks.cs",
-              "RelativeToolTip": "..\\NunitTest\\ReqnrollHooks.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T10:39:21.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EHUWebsite.feature",
-              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\EHUWebsite.feature",
-              "RelativeDocumentMoniker": "..\\NunitTest\\EHUWebsite.feature",
-              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\EHUWebsite.feature",
-              "RelativeToolTip": "..\\NunitTest\\EHUWebsite.feature",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-15T10:21:31.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NavigationMenuComponent.cs",
-              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\NavigationMenuComponent.cs",
-              "RelativeDocumentMoniker": "..\\NunitTest\\NavigationMenuComponent.cs",
-              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\NavigationMenuComponent.cs",
-              "RelativeToolTip": "..\\NunitTest\\NavigationMenuComponent.cs",
+              "Title": "XunitTests.csproj",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\XunitTests.csproj",
+              "RelativeDocumentMoniker": "..\\XunitTests\\XunitTests.csproj",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\XunitTests.csproj",
+              "RelativeToolTip": "..\\XunitTests\\XunitTests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:37:27.719Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-12T10:19:56.445Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "NavigationTest.cs",
-              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\NavigationTest.cs",
-              "RelativeDocumentMoniker": "..\\NunitTest\\NavigationTest.cs",
-              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\NavigationTest.cs",
-              "RelativeToolTip": "..\\NunitTest\\NavigationTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "SearchTest.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\SearchTest.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\SearchTest.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\SearchTest.cs",
+              "RelativeToolTip": "..\\NunitTest\\SearchTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:38:03.888Z",
+              "WhenOpened": "2026-04-09T09:39:32.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\XunitTests\\AssemblyInfo.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\XunitTests\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:48:31.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\BaseTest.cs",
+              "RelativeDocumentMoniker": "..\\XunitTests\\BaseTest.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\BaseTest.cs",
+              "RelativeToolTip": "..\\XunitTests\\BaseTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:29:02.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reporter.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\Infrastructure\\Reporting\\Reporter.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\Infrastructure\\Reporting\\Reporter.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\Infrastructure\\Reporting\\Reporter.cs",
+              "RelativeToolTip": "..\\NunitTest\\Infrastructure\\Reporting\\Reporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:30:06.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NunitTests.csproj",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\NunitTests.csproj",
+              "RelativeDocumentMoniker": "..\\NunitTest\\NunitTests.csproj",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\NunitTests.csproj",
+              "RelativeToolTip": "..\\NunitTest\\NunitTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-12T10:25:28.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "SearchComponent.cs",
               "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\SearchComponent.cs",
               "RelativeDocumentMoniker": "..\\NunitTest\\SearchComponent.cs",
@@ -253,72 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "SearchTest.cs",
-              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\SearchTest.cs",
-              "RelativeDocumentMoniker": "..\\NunitTest\\SearchTest.cs",
-              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\SearchTest.cs",
-              "RelativeToolTip": "..\\NunitTest\\SearchTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:39:32.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "HomePage.cs",
-              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\HomePage.cs",
-              "RelativeDocumentMoniker": "..\\NunitTest\\HomePage.cs",
-              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\HomePage.cs",
-              "RelativeToolTip": "..\\NunitTest\\HomePage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:21:27.807Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BaseTest.cs",
-              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\BaseTest.cs",
-              "RelativeDocumentMoniker": "..\\NunitTest\\BaseTest.cs",
-              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\BaseTest.cs",
-              "RelativeToolTip": "..\\NunitTest\\BaseTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T10:34:56.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "NunitTests.csproj",
-              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\NunitTests.csproj",
-              "RelativeDocumentMoniker": "..\\NunitTest\\NunitTests.csproj",
-              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\NunitTests.csproj",
-              "RelativeToolTip": "..\\NunitTest\\NunitTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-12T10:25:28.826Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BaseTest.cs",
-              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\BaseTest.cs",
-              "RelativeDocumentMoniker": "..\\XunitTests\\BaseTest.cs",
-              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\BaseTest.cs",
-              "RelativeToolTip": "..\\XunitTests\\BaseTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:29:02.558Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "DriverSingleton.cs",
               "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\DriverSingleton.cs",
               "RelativeDocumentMoniker": "..\\XunitTests\\DriverSingleton.cs",
@@ -332,32 +327,149 @@
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "..\\XunitTests\\AssemblyInfo.cs",
-              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\AssemblyInfo.cs",
-              "RelativeToolTip": "..\\XunitTests\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABaAAAAAAAAAA==",
+              "Title": "LanguageMenuComponent.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\LanguageMenuComponent.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\LanguageMenuComponent.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\LanguageMenuComponent.cs",
+              "RelativeToolTip": "..\\NunitTest\\LanguageMenuComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:48:31.892Z",
+              "WhenOpened": "2026-04-06T09:43:32.253Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "XunitTests.csproj",
-              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\XunitTests.csproj",
-              "RelativeDocumentMoniker": "..\\XunitTests\\XunitTests.csproj",
-              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\XunitTests\\XunitTests.csproj",
-              "RelativeToolTip": "..\\XunitTests\\XunitTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-12T10:19:56.445Z",
+              "Title": "LanguageTest.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\LanguageTest.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\LanguageTest.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\LanguageTest.cs",
+              "RelativeToolTip": "..\\NunitTest\\LanguageTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T09:51:21.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\HomePage.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\HomePage.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\HomePage.cs",
+              "RelativeToolTip": "..\\NunitTest\\HomePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:21:27.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoggingConfig.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\Infrastructure\\Logging\\LoggingConfig.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\Infrastructure\\Logging\\LoggingConfig.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\Infrastructure\\Logging\\LoggingConfig.cs",
+              "RelativeToolTip": "..\\NunitTest\\Infrastructure\\Logging\\LoggingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:29:23.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "NavigationMenuComponent.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\NavigationMenuComponent.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\NavigationMenuComponent.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\NavigationMenuComponent.cs",
+              "RelativeToolTip": "..\\NunitTest\\NavigationMenuComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:37:27.719Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "ReqnrollHooks.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\ReqnrollHooks.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\ReqnrollHooks.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\ReqnrollHooks.cs",
+              "RelativeToolTip": "..\\NunitTest\\ReqnrollHooks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:39:21.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ContactPage.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\ContactPage.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\ContactPage.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\ContactPage.cs",
+              "RelativeToolTip": "..\\NunitTest\\ContactPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:41:43.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ContactFormSubmissionTest.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\ContactFormSubmissionTest.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\ContactFormSubmissionTest.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\ContactFormSubmissionTest.cs",
+              "RelativeToolTip": "..\\NunitTest\\ContactFormSubmissionTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:41:58.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\BaseTest.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\BaseTest.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\BaseTest.cs",
+              "RelativeToolTip": "..\\NunitTest\\BaseTest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAEBVwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T10:34:56.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "NavigationTest.cs",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\NavigationTest.cs",
+              "RelativeDocumentMoniker": "..\\NunitTest\\NavigationTest.cs",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\NavigationTest.cs",
+              "RelativeToolTip": "..\\NunitTest\\NavigationTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T09:38:03.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EHUWebsite.feature",
+              "DocumentMoniker": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\EHUWebsite.feature",
+              "RelativeDocumentMoniker": "..\\NunitTest\\EHUWebsite.feature",
+              "ToolTip": "C:\\AutomatedTesting-C-sharp\\TestingFrameworkWithUpdates\\NunitTest\\EHUWebsite.feature",
+              "RelativeToolTip": "..\\NunitTest\\EHUWebsite.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-15T10:21:31.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "LanguageTest.cs",
               "DocumentMoniker": "C:\\TestingAutomotasion\\NunitTest\\LanguageTest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\TestingAutomotasion\\NunitTest\\LanguageTest.cs",
@@ -368,7 +480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "BaseTest.cs",
               "DocumentMoniker": "C:\\TestingAutomotasion\\NunitTest\\BaseTest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\TestingAutomotasion\\NunitTest\\BaseTest.cs",
@@ -379,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\TestingAutomotasion\\NunitTest\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\TestingAutomotasion\\NunitTest\\AssemblyInfo.cs",
@@ -390,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\TestingAutomotasion\\XunitTests\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\TestingAutomotasion\\XunitTests\\AssemblyInfo.cs",
@@ -401,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "LanguageTest.cs",
               "DocumentMoniker": "C:\\TestingAutomotasion\\XunitTests\\LanguageTest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\TestingAutomotasion\\XunitTests\\LanguageTest.cs",
@@ -412,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "NavigationTest.cs",
               "DocumentMoniker": "C:\\TestingAutomotasion\\XunitTests\\NavigationTest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\TestingAutomotasion\\XunitTests\\NavigationTest.cs",
@@ -423,7 +535,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "SearchTest.cs",
               "DocumentMoniker": "C:\\TestingAutomotasion\\XunitTests\\SearchTest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\TestingAutomotasion\\XunitTests\\SearchTest.cs",
@@ -434,7 +546,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "SearchTest.cs",
               "DocumentMoniker": "C:\\TestingAutomotasion\\NunitTest\\SearchTest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\TestingAutomotasion\\NunitTest\\SearchTest.cs",
@@ -445,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "XunitTests.csproj",
               "DocumentMoniker": "C:\\TestingAutomotasion\\XunitTests\\XunitTests.csproj",
               "RelativeDocumentMoniker": "..\\..\\..\\TestingAutomotasion\\XunitTests\\XunitTests.csproj",
@@ -456,7 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 34,
               "Title": "NavigationTest.cs",
               "DocumentMoniker": "C:\\TestingAutomotasion\\NunitTest\\NavigationTest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\TestingAutomotasion\\NunitTest\\NavigationTest.cs",
@@ -467,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 35,
               "Title": "ContactFormSubmissionTest.cs",
               "DocumentMoniker": "C:\\TestingAutomotasion\\NunitTest\\ContactFormSubmissionTest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\TestingAutomotasion\\NunitTest\\ContactFormSubmissionTest.cs",
@@ -478,7 +590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "BaseTest.cs",
               "DocumentMoniker": "C:\\TestingAutomotasion\\XunitTests\\BaseTest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\TestingAutomotasion\\XunitTests\\BaseTest.cs",
@@ -489,7 +601,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "ContactFormSubmissionTest.cs",
               "DocumentMoniker": "C:\\TestingAutomotasion\\XunitTests\\ContactFormSubmissionTest.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\TestingAutomotasion\\XunitTests\\ContactFormSubmissionTest.cs",

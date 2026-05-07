@@ -1,4 +1,6 @@
 ﻿using NUnit.Framework;
+using Shouldly;
+
 
 namespace NUnit.AutomationTests
 {
@@ -15,7 +17,7 @@ namespace NUnit.AutomationTests
 
             home.Search.Search(text);
 
-            Assert.That(Driver.Url, Is.EqualTo(expectedUrl));
+            Driver.Url.ShouldBe(expectedUrl);
         }
     }
 }

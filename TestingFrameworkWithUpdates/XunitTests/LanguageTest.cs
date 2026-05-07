@@ -1,9 +1,9 @@
-﻿using OpenQA.Selenium;
+﻿using Shouldly;
+using Xunit;
+using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 using System;
-using System.Buffers.Text;
-using Xunit;
 
 namespace Xunit.AutomationTests
 {
@@ -14,7 +14,7 @@ namespace Xunit.AutomationTests
         [InlineData("li[onclick] ul li:nth-child(3)", "https://lt.ehuniversity.lt/")]
         [InlineData("li[onclick] ul li:nth-child(2)", "https://be.ehuniversity.lt/")]
         [InlineData("li[onclick] ul li:nth-child(1)", "https://ru.ehuniversity.lt/")]
-        public void TestLanguageSwticher(string selector ,string resultUrl )
+        public void TestLanguageSwitcher(string selector, string resultUrl)
         {
             driver.Navigate().GoToUrl(BaseUrl);
 
@@ -30,7 +30,7 @@ namespace Xunit.AutomationTests
 
             input.Click();
 
-            Assert.Equal(resultUrl, driver.Url);
+            driver.Url.ShouldBe(resultUrl);
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using Xunit;
+﻿using Shouldly;
+using Xunit;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
@@ -31,7 +32,7 @@ namespace Xunit.AutomationTests
 
             input.SendKeys(text + Keys.Enter);
 
-            Assert.Equal(expectedUrl, driver.Url);
+            driver.Url.ShouldBe(expectedUrl);
         }
     }
 }
