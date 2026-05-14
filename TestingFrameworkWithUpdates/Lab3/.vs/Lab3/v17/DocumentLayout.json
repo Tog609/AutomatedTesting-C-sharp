@@ -124,8 +124,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -136,8 +152,7 @@
               "RelativeToolTip": "..\\XunitTests\\SearchTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:14:04.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T13:14:04.274Z"
             },
             {
               "$type": "Document",
@@ -149,8 +164,7 @@
               "RelativeToolTip": "..\\XunitTests\\NavigationTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:13:58.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T13:13:58.55Z"
             },
             {
               "$type": "Document",
@@ -175,24 +189,7 @@
               "RelativeToolTip": "..\\XunitTests\\ContactFormSubmissionTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T13:13:41.259Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2026-05-07T13:13:41.259Z"
             },
             {
               "$type": "Document",
@@ -204,8 +201,7 @@
               "RelativeToolTip": "..\\XunitTests\\XunitTests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-12T10:19:56.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T10:19:56.445Z"
             },
             {
               "$type": "Document",
@@ -217,8 +213,7 @@
               "RelativeToolTip": "..\\XunitTests\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:48:31.892Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T09:48:31.892Z"
             },
             {
               "$type": "Document",
@@ -230,8 +225,7 @@
               "RelativeToolTip": "..\\XunitTests\\DriverSingleton.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:29:52.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T09:29:52.888Z"
             },
             {
               "$type": "Document",
@@ -243,8 +237,7 @@
               "RelativeToolTip": "..\\NunitTest\\EHUWebSteps.cs",
               "ViewState": "AgIAAEAAAAAAAAAAAAAwwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T10:26:33.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T10:26:33.165Z"
             },
             {
               "$type": "Document",
@@ -256,8 +249,7 @@
               "RelativeToolTip": "..\\NunitTest\\TestRunHooks.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T12:30:46.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T12:30:46.925Z"
             },
             {
               "$type": "Document",
@@ -269,8 +261,7 @@
               "RelativeToolTip": "..\\NunitTest\\SearchTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:39:32.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T09:39:32.969Z"
             },
             {
               "$type": "Document",
@@ -282,8 +273,7 @@
               "RelativeToolTip": "..\\XunitTests\\BaseTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:29:02.558Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:29:02.558Z"
             },
             {
               "$type": "Document",
@@ -295,8 +285,7 @@
               "RelativeToolTip": "..\\NunitTest\\Infrastructure\\Reporting\\Reporter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T12:30:06.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T12:30:06.669Z"
             },
             {
               "$type": "Document",
@@ -308,8 +297,7 @@
               "RelativeToolTip": "..\\NunitTest\\NunitTests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-12T10:25:28.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-12T10:25:28.826Z"
             },
             {
               "$type": "Document",
@@ -321,8 +309,7 @@
               "RelativeToolTip": "..\\NunitTest\\SearchComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:39:16.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T09:39:16.995Z"
             },
             {
               "$type": "Document",
@@ -334,8 +321,7 @@
               "RelativeToolTip": "..\\NunitTest\\LanguageMenuComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:43:32.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:43:32.253Z"
             },
             {
               "$type": "Document",
@@ -347,8 +333,7 @@
               "RelativeToolTip": "..\\NunitTest\\LanguageTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T09:51:21.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-06T09:51:21.189Z"
             },
             {
               "$type": "Document",
@@ -360,8 +345,7 @@
               "RelativeToolTip": "..\\NunitTest\\HomePage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:21:27.807Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T09:21:27.807Z"
             },
             {
               "$type": "Document",
@@ -373,8 +357,7 @@
               "RelativeToolTip": "..\\NunitTest\\Infrastructure\\Logging\\LoggingConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-07T12:29:23.071Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T12:29:23.071Z"
             },
             {
               "$type": "Document",
@@ -386,8 +369,7 @@
               "RelativeToolTip": "..\\NunitTest\\NavigationMenuComponent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:37:27.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T09:37:27.719Z"
             },
             {
               "$type": "Document",
@@ -399,8 +381,7 @@
               "RelativeToolTip": "..\\NunitTest\\ReqnrollHooks.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T10:39:21.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T10:39:21.193Z"
             },
             {
               "$type": "Document",
@@ -412,8 +393,7 @@
               "RelativeToolTip": "..\\NunitTest\\ContactPage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:41:43.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T09:41:43.053Z"
             },
             {
               "$type": "Document",
@@ -425,8 +405,7 @@
               "RelativeToolTip": "..\\NunitTest\\ContactFormSubmissionTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:41:58.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T09:41:58.375Z"
             },
             {
               "$type": "Document",
@@ -438,8 +417,7 @@
               "RelativeToolTip": "..\\NunitTest\\BaseTest.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAEBVwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-15T10:34:56.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T10:34:56.437Z"
             },
             {
               "$type": "Document",
@@ -451,8 +429,7 @@
               "RelativeToolTip": "..\\NunitTest\\NavigationTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-09T09:38:03.888Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-09T09:38:03.888Z"
             },
             {
               "$type": "Document",
@@ -464,8 +441,7 @@
               "RelativeToolTip": "..\\NunitTest\\EHUWebsite.feature",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-04-15T10:21:31.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-15T10:21:31.213Z"
             },
             {
               "$type": "Document",
